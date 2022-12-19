@@ -27,7 +27,8 @@ This tool can be used to check whether twitter usernames / handles are available
 
 
 ## Example
-![ezgif-5-9085b91517](https://user-images.githubusercontent.com/21971014/208538146-f4a69b93-0e2f-4745-8737-cbeaa9f4f678.gif)
+![example-gif](https://user-images.githubusercontent.com/21971014/208538360-5f9509de-14b0-4c30-8ea0-43f564caea58.gif)
+
 
 
 ## Trouble Shooting
