@@ -1,4 +1,4 @@
-# Twitter-Bulk-Username-Checker
+# Twitter Bulk Username Checker
 
 Twitter is soon going to release the usernames of inactive accounts ([source1][1], [source2][2]).
 This tool can be used to check whether twitter usernames / handles are available, have an inactive account or are already taken.
